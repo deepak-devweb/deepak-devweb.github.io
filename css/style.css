@@ -100,8 +100,8 @@
     background: url(../img/hero.jpg) top right no-repeat;
     background-size: cover;
 }
-.hero-header h1 span{
-    color: black;
+.hero-header span{
+    color: #323232;
 }
 
 .service-item {
